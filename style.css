@@ -37,3 +37,8 @@ body {
   a:link {
     color: cyan;
   }
+
+  img {
+    width: 50%;
+    height: 50%;
+  }

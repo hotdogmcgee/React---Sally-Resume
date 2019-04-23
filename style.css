@@ -1,0 +1,39 @@
+body {
+    font-family: Calibri;
+    color: white;
+    background-color: rgb(43, 50, 51);
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  .intro {
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  h3 {
+    margin-left: 30px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-left: 30px;
+  }
+  
+  address {
+    text-align: center;
+  }
+  
+  address li {
+    list-style: none;
+  }
+  
+  
+  a:link {
+    color: cyan;
+  }
